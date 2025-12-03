@@ -1,4 +1,4 @@
-[<img width="1280" alt="" src="https://user-images.githubusercontent.com/4972135/218262735-9bccfd50-c478-46ff-8e56-cfae4d5c7976.jpg">](https://www.yard.nl)
+[![banner](./assets/banner-github.svg)](https://www.yard.nl/)
 
 # Hey there!
 
